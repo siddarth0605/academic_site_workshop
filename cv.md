@@ -32,7 +32,7 @@ __Epic Physician Builder__
 
 ## Clinical Experience
 
-### Saint Michael's Medical Center - Newark, New Jersey
+### Saint Michael's Medical Center: Newark, New Jersey
 
 `July 2015 - June 2016`
 __Associate, Medical Informatics Officer__
