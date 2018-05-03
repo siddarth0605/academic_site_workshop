@@ -7,13 +7,17 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2016 - 2018`
+__Oregon Health Sciences University__
+Certificate in Biomedical Informatics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2008 - 2012`
+__Saint George's University__
+Medical Degree
+
+`2005 - 2008`
+__New Jersey Institute of Technology__
+Bachelor of Arts: Biology
 
 ## Awards
 
