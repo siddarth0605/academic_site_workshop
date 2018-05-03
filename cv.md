@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Clinical Informatics Fellow
 
 ## Education
 
@@ -18,6 +18,26 @@ Medical Degree
 `2005 - 2008`
 __New Jersey Institute of Technology__
 Bachelor of Arts: Biology
+
+## Licensure & Certification
+
+`August 2015`
+__ABIM Internal Medicine Board Certification__
+
+`June 2016`
+__Oregon Medical License__
+
+`March 2017`
+__Epic Physician Builder__
+
+## Clinical Experience
+
+### Saint Michael's Medical Center - Newark, New Jersey
+
+`July 2015 - June 2016`
+__Associate, Medical Informatics Officer__
+* Acted as a physician representative working with the CMIO during the implementation process of Computerized PHysician
+Order Entry (CPOE) including user testing and go-live support for physicians and residents.
 
 ## Awards
 
