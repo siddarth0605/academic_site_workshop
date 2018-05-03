@@ -32,7 +32,7 @@ __Epic Physician Builder__
 
 ## Clinical Experience
 
-### Saint Michael's Medical Center
+<h3>Saint Michael's Medical Center</h3>
 
 `July 2015 - June 2016`
 __Associate, Medical Informatics Officer__
