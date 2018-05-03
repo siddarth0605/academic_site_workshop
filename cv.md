@@ -1,11 +1,11 @@
 ---
 layout: resume
 ---
-# Currently
+## Currently
 
 Clinical Informatics Fellow
 
-# Education
+## Education
 
 `2016 - 2018`
 __Oregon Health Sciences University__
@@ -19,7 +19,7 @@ Medical Degree
 __New Jersey Institute of Technology__
 Bachelor of Arts: Biology
 
-# Licensure & Certification
+## Licensure & Certification
 
 `August 2015`
 __ABIM Internal Medicine Board Certification__
@@ -30,7 +30,7 @@ __Oregon Medical License__
 `March 2017`
 __Epic Physician Builder__
 
-# Clinical Experience
+## Clinical Experience
 
 ## Saint Michael's Medical Center
 
