@@ -39,6 +39,16 @@ __Associate, Medical Informatics Officer__
 * Acted as a physician representative working with the CMIO during the implementation process of Computerized PHysician
 Order Entry (CPOE) including user testing and go-live support for physicians and residents.
 
+`July 2015 - June 2016`
+__Chief Medical Resident__
+* Assisted program director in steering the vision of the residency program; created and managed scheduleds,
+moderated morning report; held teaching rounds with residents and medical students
+* Participated in QI meetings with residents and provided guidance on projects
+* Attended administrative meetings and particiapted in evaluations of residents during semi-annual reviews
+
+`July 2012 - June 2015`
+__Internal Medicine Resident__
+
 ## Awards
 
 `2012`
